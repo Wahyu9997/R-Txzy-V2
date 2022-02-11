@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // Letakan nomor kamu disini
+global.owner = ['6289526350998', '62858780562509','0', '0', '0'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -44,7 +44,7 @@ global.APIKeys = { // APIKey nya disini
 global.packname = 'Exc'
 global.author = 'NyyXz'
 
-global.wait = '「 ⏱️ 」Harap tunggu...'
+global.wait = '「 ⏱️ 」 tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '© R-Txzy' //change the watermark 
